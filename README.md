@@ -1,5 +1,5 @@
 # AvalanchePayAPI
-<h3> Get Access Token</h3>
->BASE_URL . 'merchant/api/verify'
-<h3> Transact</h3>
->BASE_URL . 'merchant/api/transaction-info'
+
+<h5>This is a python api used to tranact with avalanchepay</h5>
+<h3> Getting Started</h3>
+<h5>Clone the repo,navigate to root directory and run pip install -e .</h5>
