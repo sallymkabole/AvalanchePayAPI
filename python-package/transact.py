@@ -64,7 +64,7 @@ class Payment:
         response=res.json()
        # response=json.loads(res)
         token=response['data']['access_token']
-        return response['data']['access_token']
+        return token
 
    
 
